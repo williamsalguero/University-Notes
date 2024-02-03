@@ -32,3 +32,25 @@ Cuando hablamos de metodologia de investigacion hablamos de metodos, reglas, nor
     - Metodologia Cuantitativa: Lo que no podemos contar
                 -> Metodos: Observaciones, Experiencias subjetivas, Indices
                             economicos (indices bursatiles)
+
+El tema de la investigacion es tambien un tema de conocimiento
+
+- Porque algunos temas son mas difíciles de estudiar que otros
+- Porque no se tiene el conocimiento de todo abolutamente
+- Porque antes de realizar una accion, una tarea o buscar un objetivo primero nos documentamos
+- Porque no todos tienen el mismo nivel de acceso a información
+
+La calidad de la informacion es fundamental para cualquier tipo de investigación
+
+- Calidad de la fuente
+- Verificabilidad de la informacion
+- Reproducibilidad de los resultados
+
+Para medir la calidad de la informacion existen diferentes instrumentos como:
+
+- Coincidencia interna: Si los resultados obtenidos concuerda con los esperados
+- Coincidencia externa: Si los resultados obtenidos coinciden con los de otras personas
+- Valor predicho: Es cuando se predice un resultado y este se cumple
+
+En cuanto a la verificabilidad de la informacion, se refiere a si es posible demostrar su validez o no.
+Si una afirmacion es verificable, significa que hay alguna forma de comprobarla.

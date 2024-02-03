@@ -57,3 +57,5 @@ Pasos para administrar:
     "Necesito un prestamo" -> "Veamos sus estados financieros" -> "Aqui está mi estado de resultados"
 
 **_NOTA:_** La sat maneja todas la opraciones relacionadas al cobro de impuestos
+
+    TAREA: LLevar un control de mis ingresos y gastos diarios
