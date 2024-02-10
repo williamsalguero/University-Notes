@@ -92,6 +92,5 @@ Tema: Lugares de trabajo
 
 ### Enunciado de sabiduria
 
-**La honestidad es la columna vertebral de la integridad, la base sobre la cual se construye un carácter fuerte y digno de admiración**
-
-**En palabras de Thomas Jefferson**
+> "La honestidad es la columna vertebral de la integridad, la base sobre la cual se construye un carácter fuerte y digno de admiración."  
+> — Thomas Jefferson
