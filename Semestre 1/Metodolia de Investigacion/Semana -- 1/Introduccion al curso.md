@@ -25,7 +25,7 @@ Hacemos una recopilacion de infromacion del tema al que tenemos como objetivo in
 Cuando hablamos de metodologia de investigacion hablamos de metodos, reglas, normas, formas de investigar
 
     Ejemplo:
-    - Metodologia Cuantitativa: Lo que podemos contar
+    - Metodologia Cuantitativa: Lo que podemos contar pero si podemos observar
                 -> Metodos: Encuestas (encuestados), Cuentas por cobrar (datos fijos)
                             Estudios experimentales, Analisis de variables
 
