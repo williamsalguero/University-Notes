@@ -1,3 +1,3 @@
-### Apuntes semanales de Ingenieria en Sistemas de la universidad Mariano Galvez de guatemala
+### Notes
 
-Todo en formato Mark Down para facilitar su lectura y edicion.
+In this repository you will find notes, tasks, exercises and links from my studies in engineering, programming and cybersecurity
