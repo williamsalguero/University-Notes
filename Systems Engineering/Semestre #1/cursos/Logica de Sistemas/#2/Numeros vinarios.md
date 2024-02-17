@@ -15,4 +15,4 @@ Empezamos en el 64 porque es el mas cercano a 67, luego hayar el numero que al s
 2. Segundo metodo
    97-64+1
 
-97-6 es 33 y el numero mas cercano a 33 es el 32, como solo nos falta uno para 33 le sumamos el 1 y da 33
+97-64 es 33 y el numero mas cercano a 33 es el 32, como solo nos falta uno para 33 le sumamos el 1 y da 33

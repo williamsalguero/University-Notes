@@ -50,7 +50,7 @@ Hay Software con libre uso que no necesita una licencia para ser usado como Linu
 
 ## Frimware
 
-El frimware, tambien conocido como soporte logico inalterable, es el programa basico que controla los circuitos electronicos de cualquier dispositivo. Es oarte de hardwaer porque siempre está integrado en la electronico, pero no deja de ser un programa informatico, por lo que tambien es software.
+El frimware, tambien conocido como soporte logico inalterable, es el programa basico que controla los circuitos electronicos de cualquier dispositivo. Es oarte de hardwaer porque siempre está integrado en la electronico, pero no deja de ser un programa informatico, por lo que tambien es software. Por ejemplo de la BIOS
 
 No se puede programare el frimware, pero hay un virus que se llama Spectre que si es capaz de hacerlo.
 
